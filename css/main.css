@@ -1,0 +1,31 @@
+body {
+  color: #747704;
+  font-family: 'Lato', sans-serif;
+}
+
+hr {
+  height: 4px;
+  background-color: #bcbbbb;
+}
+.logo {
+  margin-top: 20px;
+}
+
+.name {
+  font-weight: 100;
+  font-size: 50px;
+}
+
+.slogan {
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.features-description h3 {
+  font-size: 40px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+.feature h3 {
+  font-size: 40px;
+}
